@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b5cea25-6403-43b8-b032-662ce4dc34c1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1fQC83uD4nXqUwjeJFl14pc0LCz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/xampp/php/php.exe" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.PHP" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="dir" />
+      <command value="cd" />
+      <command value="open Php OOP" />
+      <command value="open PHP OOP" />
+      <command value="open person.php" />
+      <command value="php HelloWorld.php" />
+      <command value="php Car.php" />
+      <command value="php Person.php" />
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b5cea25-6403-43b8-b032-662ce4dc34c1" name="Default Changelist" comment="" />
+      <created>1596140784248</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596140784248</updated>
+      <workItem from="1596140789985" duration="720000" />
+      <workItem from="1596218958977" duration="55000" />
+      <workItem from="1596285496531" duration="5525000" />
+      <workItem from="1596345342408" duration="11401000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="263" y="23" key="#CLI_Interpreters" timestamp="1596368901951">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="263" y="23" key="#CLI_Interpreters/0.0.1366.738@0.0.1366.738" timestamp="1596368901951" />
+    <state x="390" y="11" key="#PHP" timestamp="1596368906755">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="390" y="11" key="#PHP/0.0.1366.738@0.0.1366.738" timestamp="1596368906755" />
+    <state x="476" y="77" key="#com.intellij.ide.util.MemberChooser" timestamp="1596286307592">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="476" y="77" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1596286307592" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1596368888413">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1596368888413" />
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1596376403627">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1596376403627" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1596376403627">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1596376403627" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1596376403626">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1596376403626" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1596376403627">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1596376403627" />
+    <state x="514" y="91" key="NewPhpClassDialog" timestamp="1596370177157">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="514" y="91" key="NewPhpClassDialog/0.0.1366.738@0.0.1366.738" timestamp="1596370177157" />
+    <state x="518" y="292" key="NewPhpFileDialog" timestamp="1596371523047">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="518" y="292" key="NewPhpFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1596371523047" />
+    <state x="184" y="13" key="SettingsEditor" timestamp="1596372715848">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="13" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1596372715848" />
+    <state x="0" y="0" width="585" height="738" key="find.popup" timestamp="1596372726417">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="0" y="0" width="585" height="738" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1596372726417" />
+    <state x="339" y="165" width="672" height="677" key="run.anything.popup" timestamp="1596370682601">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="165" width="672" height="677" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1596370682601" />
+  </component>
+</project>
